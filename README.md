@@ -84,4 +84,3 @@ Represent the following expressions only using ¬ (negation) and nand and approp
 p ∧ q
 p ∨ q
 
-Hacktoberfest
