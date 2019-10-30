@@ -8,7 +8,7 @@ Problem 1
 Write a function bool isPrime(int N), to check whether a given number N is prime or not. 
 Your program should run in such a way that it should only try 2 and then all odd numbers and to the limit of N/2.
 Now Compare it within the limit of SQRT(N).
-Test the execution time on the following number (https://bit.ly/2kwaGdX) for both implementations.
+Test the execution time on the [following number](https://bit.ly/2kwaGdX) for both implementations.
 Write a function to check whether P(N) = n2+ n + 41 is prime or not?
 Write a main program for testing if the above function(c) fails for any value n?
 Write the code for FINDTwinPrime , and it should return two prime numbers(a pair of two consecutive odd numbers). 
