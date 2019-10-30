@@ -69,6 +69,7 @@ e)    Getting an A on the final and doing every assignment is sufficient for get
 
 Problem 9 
 Write the inverse, converse and contrapositive of the following statements (in English). Hint: It will help to separately write p and q. 
+It is important to note that inverse of p -> q is never equal to its contraposition
 Pakistan will win the match if they bat all 50 overs. 
 Winning the match against Bangladesh is sufficient for Pakistan to qualify for semi final. 
 It is necessary to do all the assignments in Discrete Structures to understand the material well.
