@@ -222,7 +222,7 @@ int Collatz(long long Number) {
 int main() {
 
 
-	cout << "Enter the number of the problem to check that problem (1 to 3)" << endl;
+	cout << "Enter the NUMER of the problem to check that problem (1 to 3)................." << endl;
 
 	int problem;
 	cin >> problem;
