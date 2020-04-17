@@ -26,7 +26,7 @@ bool IsPrime(long long Number) {
 
 		}
 	}
-
+	cout << "Sarim  was here" << endl;
 	return true;
 
 }
