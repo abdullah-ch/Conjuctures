@@ -3,6 +3,11 @@ using namespace std;
 #include <ctime>
 #include <cmath>
 
+
+//ye to v nice code ha
+//ye to meri psnd ka code ha
+//iske to mai mazay lu
+
 //QUESTION NO 1
 //PART a)
 //  .
