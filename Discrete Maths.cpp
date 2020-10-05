@@ -4,9 +4,8 @@ using namespace std;
 #include <cmath>
 
 
-//ye to v nice code ha
-//ye to meri psnd ka code ha
-//iske to mai mazay lu
+//Made with Love !
+
 
 //QUESTION NO 1
 //PART a)
