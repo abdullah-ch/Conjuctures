@@ -1,6 +1,6 @@
 # Conjuctures
 A menu driven program which revolves around various Conjuctures !
-written by me and Abdul Moeed (bscs18056@itu.edu.pk)
+written by me(bscs18055@itu.edu.pk) and Abdul Moeed (bscs18056@itu.edu.pk)
 
 
 PART 1
