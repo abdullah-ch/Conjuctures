@@ -4,10 +4,10 @@ using namespace std;
 #include <cmath>
 
 
-//Made with Love !
 
 
-//QUESTION NO 1
+
+//QUESTION NO 1;
 //PART a)
 //  .
 bool IsPrime(long long Number) {
