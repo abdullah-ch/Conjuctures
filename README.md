@@ -84,4 +84,5 @@ P nand q
 Represent the following expressions only using ¬ (negation) and nand and appropriately placed parentheses. Use can use p and q any number of times. 
 p ∧ q
 p ∨ q
+This is includes conjuctures 
 
