@@ -3,11 +3,6 @@ using namespace std;
 #include <ctime>
 #include <cmath>
 
-
-//ye to v nice code ha
-//ye to meri psnd ka code ha
-//iske to mai mazay lu
-
 //QUESTION NO 1
 //PART a)
 //  .
@@ -63,11 +58,6 @@ bool IsPrimeFaster(long long Number)
 	return true;
 
 }
-//.
-// EXECUTION TIME
-//The execution time for the number 2147483647 is 27.00 seconds by n/2 method 
-//and the execution time for the number 2147483647 is 0.00 seconds by sqrt(n) method
-
 //PART b)
 
 bool P(long long n)
@@ -92,7 +82,7 @@ void twinprime(long long range)
 	{
 		if (IsPrimeFaster(start) == true && IsPrimeFaster(start - 2)==true)
 		{
-			cout << "Twin Primes are: " << start << "," << start - 2 << endl;
+			cout << "Twin Primes: " << start << "," << start - 2 << endl;
 			break;
 		}
 
@@ -162,7 +152,7 @@ void goldbach(long long even)
 		}
 
 
-		cout << "The even number with the sum of two prime numbers is: " << p1 << "+" << p2 << endl;
+		cout << "The even number with the sum of two prime numbers: " << p1 << "+" << p2 << endl;
 
 	}
 
@@ -191,7 +181,7 @@ int Collatz(long long Number) {
 	if (Number / 2 == 1)
 	{
 		cout << "The number that is shrunked by dividing it by 2 is " << Number << endl;
-		cout << "It indeed shrunk to 1" << endl;
+		cout << "It shrunk to 1" << endl;
 		return 0;
 	}
 
@@ -218,17 +208,9 @@ int Collatz(long long Number) {
 
 //problem 3
 
-
-
-
-
-
-
 int main() {
 
-
 	cout << "Enter the NUMER of the problem to check that problem (1 to 3)................." << endl;
-
 	int problem;
 	cin >> problem;
 
